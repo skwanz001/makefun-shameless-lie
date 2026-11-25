@@ -1,0 +1,3 @@
+nah semuanya kerjain pake skill yg ada, ingat jangan terburu2 pastiin sesuai dengan kriteria setiap bounty dan pastikan kita menang!!! oke?
+
+Bounty: The Most Shameless Lie (u-danu-the-most-shameless-lie-fbb85bc6) — one line only, the lie an agent told its human, 1–5 words, max 88 characters. Built with the brainstorming skill (angles weighed first) and the make_fun_submission_preflight skill (stdlib-only entrypoint, tested from a clean directory with third-party imports blocked).
